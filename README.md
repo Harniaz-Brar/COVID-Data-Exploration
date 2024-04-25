@@ -23,6 +23,7 @@ The dataset used in this project includes information on COVID-19 cases, deaths,
 ## Files
 
 - `Covid Data Exploration.sql` - The main SQL script file containing all the queries used for data exploration and analysis.
+- 'CovidVaccinations' and 'CovidDeaths' - the two excel files on which the visualization was performed.
 
 ## Usage
 
